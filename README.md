@@ -187,4 +187,11 @@ Dzięki temu wszyscy gracze otrzymują aktualizacje planszy natychmiast po wykon
 
 ## Autor
 
-Projekt wykonany w ramach zajęć z programowania aplikacji internetowych przy użyciu Spring Boot, Hibernate ORM oraz PostgreSQL.
+Projekt wykonany w ramach zajęć z programowania aplikacji internetowych przy użyciu Spring Boot, Hibernate ORM oraz PostgreSQL.## Autor
+
+Andrzej Antosz
+Państwowa Wyższa Szkoła Techniczno-Ekonomiczna im. ks. Bronisława Markiewicza w Jarosławiu
+Numer albumu: s41145
+
+Projekt zaliczeniowy wykonany w ramach przedmiotu dotyczącego tworzenia aplikacji internetowych z wykorzystaniem technologii Spring Boot, Hibernate ORM oraz relacyjnych baz danych.
+
