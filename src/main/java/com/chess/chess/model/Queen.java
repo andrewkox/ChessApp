@@ -8,8 +8,8 @@ public class Queen extends Piece {
     
     @Override
     public char getSymbol() {
-            return 'Q';
-        }
+        return (color == 0) ? 'Q' : 'q';
+    }
 
     public boolean isValidMove(int startX, int startY, int endX, int endY) {
         int deltaX = Math.abs(endX - startX);

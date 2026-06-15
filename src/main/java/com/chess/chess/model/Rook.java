@@ -8,7 +8,7 @@ public class Rook extends Piece {
     }
     @Override
     public char getSymbol() {
-        return 'R';
+        return (color == 0) ? 'R' : 'r';
     }
 
     public boolean isValidMove(int startX, int startY, int endX, int endY) {

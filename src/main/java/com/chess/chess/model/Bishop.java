@@ -9,7 +9,7 @@ public class Bishop extends Piece {
 
     @Override
     public char getSymbol() {
-        return 'B';
+        return (color == 0) ? 'B' : 'b';
     }
 
     public boolean isValidMove(int startX, int startY, int endX, int endY) {

@@ -8,7 +8,7 @@ public class Knight extends Piece {
     }
     @Override
     public char getSymbol() {
-        return 'N';
+        return (color == 0) ? 'N' : 'n';
     }
     public boolean isValidMove(int startX, int startY, int endX, int endY) {
         int deltaX = Math.abs(endX - startX);

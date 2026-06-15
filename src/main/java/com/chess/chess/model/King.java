@@ -8,7 +8,7 @@ public class King extends Piece {
 
     @Override
     public char getSymbol() {
-        return 'K';
+        return (color == 0) ? 'K' : 'k';
     }
 
     public boolean isValidMove(int startX, int startY, int endX, int endY) {
